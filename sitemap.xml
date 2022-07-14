@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.yuhong-zhong.com/about/</loc>
+    <lastmod>2022-07-12T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://www.yuhong-zhong.com/news/</loc>
+    <lastmod>2022-07-12T17:51:47+03:30</lastmod>
+  </url><url>
     <loc>https://www.yuhong-zhong.com/</loc>
-    <lastmod>2022-07-08T18:08:28+00:00</lastmod>
+    <lastmod>2022-07-12T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://www.yuhong-zhong.com/categories/</loc>
+  </url><url>
+    <loc>https://www.yuhong-zhong.com/tags/</loc>
   </url>
 </urlset>

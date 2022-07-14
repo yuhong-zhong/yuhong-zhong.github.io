@@ -151,12 +151,16 @@ h2 code {
 .publication .section-2 {
     font-family: 'Ubuntu Mono', serif;
     margin-top: -.1%;
-    margin-bottom: .5%;
+}
+
+.publication .best-paper span{
+    font-family: 'Ubuntu Mono', serif;
+    background-color: #d64933;
+    color: white;
 }
 
 
 .publication .section-3 {
-    margin-top: -.5%;
     font-family: 'Ubuntu Mono', serif;
     text-decoration: none;
 }
