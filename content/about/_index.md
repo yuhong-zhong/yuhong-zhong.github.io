@@ -24,9 +24,9 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "Incoming Ph.D. Student"
+        title: "Ph.D. Student"
         name: "Columbia University"
-        email: "yuhong [dot] zhong [at] columbia [dot] edu"
+        email: "yz [at] cs [dot] columbia [dot] edu"
 
 academia:
     - course:
@@ -62,7 +62,7 @@ work_experience:
         start_date: "2020"
 ---
 
-Hello! I am an incoming Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
+Hello! I am a first-year Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
 I am broadly interested in computer systems, especially storage systems and persistent memory.
 Before starting my Ph.D., I was a software engineer at [VMware][3] in the vSAN group working on the next generation of vSAN.
 I received my master's degree at [Columbia University][1] and my bachelor’s degree at [Harbin Institute of Technology][4].
