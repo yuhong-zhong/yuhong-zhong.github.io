@@ -4,7 +4,7 @@ date: 2022-07-12T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Yuhong Zhong (钟宇宏)"
+full_name: "Yuhong Zhong | 钟宇宏"
 profile_picture: "profile.png"
 # cv: "cv.pdf"
 # set to false if you don't want to show your blog
