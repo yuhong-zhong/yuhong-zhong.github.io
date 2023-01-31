@@ -21,7 +21,7 @@ links:
     pdf: https://www.usenix.org/system/files/osdi22-zhong_1.pdf
     code: https://github.com/xrp-project/XRP
     # slides: https://github.com/hadisinaee/avicenna
-    # video: https://github.com/hadisinaee/avicenna
+    video: https://www.usenix.org/conference/osdi22/presentation/zhong
 
 ---
 
