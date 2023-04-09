@@ -65,7 +65,7 @@ work_experience:
 
 Hello! I am a first-year Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
 I am broadly interested in computer systems, especially storage systems and memory technologies.
-Before starting my Ph.D., I was a software engineer at [VMware][3] in the vSAN group working on the next generation of vSAN.
+Before starting my Ph.D., I was a software engineer at [VMware][3] in the vSAN group working on vSAN Express Storage Architecture and SplinterDB.
 I received my master's degree at [Columbia University][1] and my bachelor’s degree at [Harbin Institute of Technology][4].
 
 [1]: https://www.cs.columbia.edu/

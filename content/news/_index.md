@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "[Memtrade](https://arxiv.org/pdf/2108.06893.pdf) accepted to SIGMETRICS '23"
+  extra_text: "2023-03-28"
+  date: 2023-03-28
 - text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) wins Jay Lepreau Best Paper Award at OSDI '22"
   extra_text: "2022-07-11"
   date: 2022-07-11

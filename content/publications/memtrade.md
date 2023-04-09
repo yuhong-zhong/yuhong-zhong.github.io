@@ -7,9 +7,9 @@ authors:
 - "Mosharaf Chowdhury"
 - "Asaf Cidon"
 - "Carl Waldspurger"
-date: "2020-06-01"
+date: "2023-03-28"
 
-publication: "Arxiv"
+publication: "SIGMETRICS '23"
 
 links:
     pdf: https://arxiv.org/pdf/2108.06893.pdf
