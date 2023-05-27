@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Gave a [talk](https://www.youtube.com/watch?v=tGnK9eOJVng) about the limitations of PEBS for tracking main memory requests"
+  extra_text: "2023-05-17"
+  date: 2023-05-17
 - text: "[Memtrade](https://arxiv.org/pdf/2108.06893.pdf) accepted to SIGMETRICS '23"
   extra_text: "2023-03-28"
   date: 2023-03-28
