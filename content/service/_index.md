@@ -7,7 +7,7 @@ headless: true
 num_items: 2
 
 items:
-- text: "Co-organizer: [qSTEM 🏳️‍🌈](https://egsc.engineering.columbia.edu/content/qstem-club), Columbia University"
+- text: "Co-Organizer: [qSTEM 🏳️‍🌈](https://egsc.engineering.columbia.edu/content/qstem-club), Columbia University"
   extra_text: "2023"
   date: 2023-05-17
 - text: "Reviewer: [Computer Science PhD Pre-Submission Application Review (PAR) Program](https://www.cs.columbia.edu/cscu-phd-par-program/), Columbia Univeristy"
