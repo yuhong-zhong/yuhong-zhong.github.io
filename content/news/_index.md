@@ -14,7 +14,7 @@ news_items:
 - text: "Gave a [talk](https://www.youtube.com/watch?v=tGnK9eOJVng) about the limitations of PEBS for tracking main memory requests"
   extra_text: "2023-05-17"
   date: 2023-05-17
-- text: "[Memtrade](https://arxiv.org/pdf/2108.06893.pdf) accepted to SIGMETRICS '23"
+- text: "[Memtrade](https://dl.acm.org/doi/abs/10.1145/3589985) accepted to SIGMETRICS '23"
   extra_text: "2023-03-28"
   date: 2023-03-28
 - text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) wins Jay Lepreau Best Paper Award at OSDI '22"
