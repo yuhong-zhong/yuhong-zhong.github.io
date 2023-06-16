@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Yuhong Zhong | 钟宇宏"
 pronoun: "he/him"
-profile_picture: "profile.png"
+profile_picture: "asplos.jpg"
 # cv: "cv.pdf"
 # set to false if you don't want to show your blog
 blog: false
