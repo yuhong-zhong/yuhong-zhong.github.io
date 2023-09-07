@@ -11,21 +11,30 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Super excited 😆 to start as a research intern in [Azure Systems Research Group](https://www.microsoft.com/en-us/research/group/azure-systems-research/) with [Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/) as my mentor!"
+  extra_text: "2023-09-05"
+  icon: "briefcase"
+  date: 2023-09-05
 - text: "Gave a [talk](https://www.youtube.com/watch?v=tGnK9eOJVng) about the limitations of PEBS for tracking main memory requests"
   extra_text: "2023-05-17"
   date: 2023-05-17
-- text: "[Memtrade](https://dl.acm.org/doi/abs/10.1145/3589985) accepted to SIGMETRICS '23"
+  icon: "mic"
+- text: "[Memtrade](https://dl.acm.org/doi/abs/10.1145/3589985) accepted to SIGMETRICS '23!"
   extra_text: "2023-03-28"
   date: 2023-03-28
-- text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) wins Jay Lepreau Best Paper Award at OSDI '22"
+  icon: "file-text"
+- text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) wins Jay Lepreau Best Paper Award at OSDI '22!"
   extra_text: "2022-07-11"
   date: 2022-07-11
-- text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) accepted to OSDI '22"
+  icon: "award"
+- text: "[XRP](https://www.usenix.org/conference/osdi22/presentation/zhong) accepted to OSDI '22!"
   extra_text: "2022-03-19"
   date: 2022-03-19
-- text: "[BPF for Storage](https://dl.acm.org/doi/10.1145/3458336.3465290) accepted to HotOS '21"
+  icon: "file-text"
+- text: "[BPF for Storage](https://dl.acm.org/doi/10.1145/3458336.3465290) accepted to HotOS '21!"
   extra_text: "2021-04-12"
   date: 2021-04-12
+  icon: "file-text"
 
 # - text: "I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO"
 #   extra_text: "August 2023."

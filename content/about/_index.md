@@ -6,8 +6,8 @@ headless: true
 
 full_name: "Yuhong Zhong | 钟宇宏"
 pronoun: "he/him"
-profile_picture: "asplos.jpg"
-# cv: "cv.pdf"
+profile_picture: "profile.jpg"
+cv: "cv.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
@@ -35,6 +35,7 @@ academia:
         institution:  "Columbia University"
         major: "in Computer Science"
         start_date: "2022"
+        other_info: "Advisor: Asaf Cidon"
     - course:
         degree: "M.S."
         institution: 'Columbia University'
@@ -53,6 +54,12 @@ academia:
 
 work_experience:
     - work:
+        company: "Microsoft"
+        description: "Research Intern, Azure Systems Research"
+        extra_description: "Mentor: Daniel S. Berger"
+        start_date: "2023"
+        end_date: "Present"
+    - work:
         company:  "VMware"
         description: "Software Engineer, vSAN Group"
         start_date: "2021"
@@ -63,8 +70,8 @@ work_experience:
         start_date: "2020"
 ---
 
-Hello! I am a first-year Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
-I am broadly interested in computer systems, especially storage systems and memory technologies.
+Hello! I am a second-year Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
+I am broadly interested in computer systems, especially storage systems, eBPF, memory tiering, and CXL.
 Before starting my Ph.D., I was a software engineer at [VMware][3] in the vSAN group working on vSAN Express Storage Architecture and SplinterDB.
 I received my master's degree at [Columbia University][1] and my bachelor’s degree at [Harbin Institute of Technology][4].
 
