@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "Super excited 😆 to start as a research intern in [Azure Systems Research Group](https://www.microsoft.com/en-us/research/group/azure-systems-research/) with [Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/) as my mentor!"
+- text: "Super excited 😆 to start as a research intern in [Azure Systems Research](https://www.microsoft.com/en-us/research/group/azure-systems-research/) with [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) and [Dan Ernst](https://www.linkedin.com/in/danernst/) as my mentors!"
   extra_text: "2023-09-05"
   icon: "briefcase"
   date: 2023-09-05
