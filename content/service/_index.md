@@ -4,10 +4,13 @@ date: 2022-07-12T17:51:47+03:30
 draft: false
 headless: true
 
-num_items: 2
+num_items: 3
 
 items:
-- text: "Co-Organizer: [qSTEM🏳️‍🌈](https://egsc.engineering.columbia.edu/content/qstem-club), Columbia University"
+- text: "Co-Organizer: [Students@Systems](https://students-at-systems.org/) (join us in organizing more events to connect the systems community!) 🧑‍💻"
+  extra_text: "2023"
+  date: 2023-10-20
+- text: "Co-Organizer: [qSTEM 🏳️‍🌈](https://egsc.engineering.columbia.edu/content/qstem-club), Columbia University"
   extra_text: "2023"
   date: 2023-05-17
 - text: "Reviewer: [Computer Science PhD Pre-Submission Application Review (PAR) Program](https://www.cs.columbia.edu/cscu-phd-par-program/), Columbia Univeristy"

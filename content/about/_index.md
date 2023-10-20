@@ -56,7 +56,7 @@ work_experience:
     - work:
         company: "Microsoft"
         description: "Research Intern, Azure Systems Research"
-        extra_description: "Mentors: Daniel Berger, Dan Ernst"
+        extra_description: "Mentor: Daniel Berger"
         start_date: "2023"
         end_date: "Present"
     - work:
