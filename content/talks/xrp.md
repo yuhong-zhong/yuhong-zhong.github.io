@@ -2,6 +2,8 @@
 title: "XRP: In-Kernel Storage Functions with eBPF"
 
 venues:
+- "University of Washington Systems Seminar, *February 2024*"
+- "UCSD Big Arch Seminar, *February 2024*"
 - "Cornell Systems Seminar, *September 2023*"
 - "Microsoft Research Asia ACE Talk Series, *March 2023*"
 - "[Non-Volatile Memory Workshop (NVMW) 2023](http://nvmw.ucsd.edu/program/), *March 2023*"
