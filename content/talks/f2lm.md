@@ -1,8 +1,9 @@
 ---
-title: "Memory Tiering with Flat2LM and Mitigating Performance Outliers"
+title: "Memory Tiering with Flat Memory Mode and Mitigating Performance Outliers"
 
 venues:
 - "[Azure Systems Research Group](https://www.microsoft.com/en-us/research/group/azure-systems-research/), Microsoft, *February 2024*"
+- "Xeon Memory Tiering Working Group, Intel, *January 2024*"
 
 date: "2024-02-24"
 
