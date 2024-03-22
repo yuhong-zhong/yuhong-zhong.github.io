@@ -3,7 +3,7 @@ title: "Memtrade: Marketplace for Disaggregated Memory Clouds"
 authors:
 - "[​Hasan Al Maruf](https://web.eecs.umich.edu/~hasanal/)"
 - "**Yuhong Zhong**"
-- "Hongyi Wang"
+- "[Hongyi Wang](https://www.linkedin.com/in/ohywang/)"
 - "[Mosharaf Chowdhury](https://www.mosharaf.com/)"
 - "[Asaf Cidon](https://www.asafcidon.com/)"
 - "[Carl Waldspurger](http://www.waldspurger.org/carl/)"

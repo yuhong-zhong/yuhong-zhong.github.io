@@ -2,8 +2,8 @@
 title: "BPF for Storage: An Exokernel-Inspired Approach"
 authors:
 - "**Yuhong Zhong***"
-- "Hongyi Wang*"
-- "Yu Jian Wu*"
+- "[Hongyi Wang](https://www.linkedin.com/in/ohywang/)*"
+- "[Yu Jian Wu](https://www.linkedin.com/in/yu-jian-wu/)*"
 - "[Asaf Cidon](https://www.asafcidon.com/)"
 - "[Ryan Stutsman](https://rstutsman.github.io/)"
 - "[Amy Tai](https://amytai.github.io/)"
