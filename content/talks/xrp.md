@@ -2,7 +2,7 @@
 title: "XRP: In-Kernel Storage Functions with eBPF"
 
 venues:
-- "University of Wisconsin-Madison Systems Reading Group, *February 2024*"
+- "University of Wisconsin-Madison Systems Reading Group, *March 2024*"
 - "University of Washington Systems Seminar, *February 2024*"
 - "UCSD Big Arch Seminar, *February 2024*"
 - "Cornell Systems Seminar, *September 2023*"
