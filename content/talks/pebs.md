@@ -3,7 +3,7 @@ title: "Limitations of PEBS for Tracking Main Memory Requests"
 
 venues:
 - "[Open Compute Project (OCP)](https://www.opencompute.org/), [Composable Memory System (CMS)](https://www.opencompute.org/projects/composable-memory-system), *May 2023*"
-- "[Azure Systems Research Group](https://www.microsoft.com/en-us/research/group/azure-systems-research/) (Host by [Prof. Mark D. Hill](https://pages.cs.wisc.edu/~markhill/)), Microsoft, *March 2023*"
+- "[Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-systems-research/), Microsoft, *March 2023*"
 
 date: "2023-03-28"
 

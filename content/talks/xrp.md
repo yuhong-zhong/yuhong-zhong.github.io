@@ -2,6 +2,8 @@
 title: "XRP: In-Kernel Storage Functions with eBPF"
 
 venues:
+- "Brown University Systems Seminar, *April 2024*"
+- "Northeastern University Systems Seminar, *April 2024*"
 - "Harvard University Systems Seminar, *March 2024*"
 - "University of Wisconsin-Madison Systems Reading Group, *March 2024*"
 - "University of Washington Systems Seminar, *February 2024*"

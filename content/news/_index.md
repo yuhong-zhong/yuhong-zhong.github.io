@@ -11,11 +11,11 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "Memstrata accepted to OSDI '24! (the paper will be available soon)"
+- text: "[Memstrata](https://www.usenix.org/conference/osdi24/presentation/zhong-yuhong) accepted to OSDI '24!"
   extra_text: "2024-03-21"
   icon: "file-text"
   date: 2024-03-21
-- text: "Super excited 😆 to start as a research intern in [Azure Systems Research](https://www.microsoft.com/en-us/research/group/azure-systems-research/) with [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) as my mentor!"
+- text: "Super excited 😆 to start as a research intern in [Azure Research - Systems](https://www.microsoft.com/en-us/research/group/azure-systems-research/) with [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/) as my mentor!"
   extra_text: "2023-09-05"
   icon: "briefcase"
   date: 2023-09-05
