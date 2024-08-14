@@ -56,7 +56,7 @@ work_experience:
     - work:
         company: "Microsoft"
         description: "Research Intern, Azure Research - Systems"
-        extra_description: "Mentor: Daniel Berger"
+        extra_description: "Mentors: Daniel Berger, Pantea Zardoshti"
         start_date: "2023"
         end_date: "Present"
     - work:
