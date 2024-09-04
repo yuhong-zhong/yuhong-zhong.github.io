@@ -8,7 +8,7 @@ num_items: 3
 
 items:
 - text: "Co-Organizer: [Students@Systems](https://students-at-systems.org/) (join us in organizing more events to connect the systems community!) 🧑‍💻"
-  extra_text: "2023"
+  extra_text: "2024"
   date: 2023-10-20
 - text: "Co-Organizer: [qSTEM 🏳️‍🌈](https://egsc.engineering.columbia.edu/content/qstem-club), Columbia University"
   extra_text: "2023"
