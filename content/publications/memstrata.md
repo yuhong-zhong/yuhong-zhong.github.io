@@ -20,7 +20,7 @@ links:
     pdf: https://www.usenix.org/conference/osdi24/presentation/zhong-yuhong
     code: https://bitbucket.org/yuhong_zhong/memstrata/src/master/
     slides: https://bitbucket.org/yuhong_zhong/memstrata/src/master/slides/
-    video: https://youtu.be/8cuvNS9G1lI?si=SNRFNqXY2gsYobqD
+    video: https://www.usenix.org/conference/osdi24/presentation/zhong-yuhong
 
 ---
 
