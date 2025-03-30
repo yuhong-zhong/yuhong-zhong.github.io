@@ -13,7 +13,7 @@ theme = "avicenna"
 title = "Yuhong Zhong"
 
 # number of posts to show on the blog page
-paginate = 10
+# paginate = 10
 
 [markup]
 [markup.tableOfContents]
