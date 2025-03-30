@@ -8,9 +8,13 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 5
+num_news: 6
 
 news_items:
+- text: "[PCIe pooling with CXL](https://sigops.org/s/conferences/hotos/2025/program.html) accepted to HotOS '25!"
+  extra_text: "2025-03-28"
+  icon: "file-text"
+  date: 2025-03-28
 - text: "[Memstrata](https://www.usenix.org/conference/osdi24/presentation/zhong-yuhong) accepted to OSDI '24!"
   extra_text: "2024-03-21"
   icon: "file-text"

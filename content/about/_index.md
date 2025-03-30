@@ -58,7 +58,7 @@ work_experience:
         description: "Research Intern, Azure Research - Systems"
         extra_description: "Mentors: Daniel Berger, Pantea Zardoshti"
         start_date: "2023"
-        end_date: "Present"
+        end_date: "2025"
     - work:
         company:  "VMware"
         description: "Software Engineer, vSAN Group"
