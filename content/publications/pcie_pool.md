@@ -14,7 +14,7 @@ date: "2025-05-14"
 publication: "HotOS '25"
 
 links:
-    # pdf: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf
+    pdf: https://arxiv.org/abs/2503.23611
     # code: https://github.com/yuhong-zhong/bpf-storage-hotos
     # # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=E7K1aRSy7co
