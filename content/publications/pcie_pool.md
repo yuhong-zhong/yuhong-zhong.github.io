@@ -1,5 +1,5 @@
 ---
-title: "Beware, PCIe Switches! CXL Pools Are Out to Get You"
+title: "My CXL Pool Obviates Your PCIe Switch"
 authors:
 - "**Yuhong Zhong**"
 - "[Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/)"
