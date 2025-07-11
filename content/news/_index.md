@@ -8,9 +8,13 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 6
+num_news: 7
 
 news_items:
+- text: "Oasis accepted to SOSP '25!"
+  extra_text: "2025-07-11"
+  icon: "file-text"
+  date: 2025-07-11
 - text: "[PCIe pooling with CXL](https://sigops.org/s/conferences/hotos/2025/program.html) accepted to HotOS '25!"
   extra_text: "2025-03-28"
   icon: "file-text"
