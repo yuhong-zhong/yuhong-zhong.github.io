@@ -70,8 +70,8 @@ work_experience:
         start_date: "2020"
 ---
 
-Hello! I am a third-year Ph.D. student in Computer Science at [Columbia University][1] advised by [Asaf Cidon][2].
-I also work closely with [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/).
+Hello! I am a third-year Ph.D. student in Computer Science at [Columbia University][1] advised by my amazing advisor [Asaf Cidon][2].
+I am also fortunate to work closely with [Daniel Berger](https://www.microsoft.com/en-us/research/people/daberg/).
 I am broadly interested in computer systems, especially resource pooling, CXL, memory tiering, storage systems, and eBPF.
 Before starting my Ph.D., I was a software engineer at [VMware][3] in the vSAN group working on vSAN Express Storage Architecture and SplinterDB.
 I received my master's degree at [Columbia University][1] and my bachelor’s degree at [Harbin Institute of Technology][4].
