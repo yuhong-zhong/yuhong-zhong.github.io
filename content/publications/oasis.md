@@ -15,8 +15,8 @@ date: "2025-10-13"
 publication: "SOSP '25 (To Appear)"
 
 links:
-    # pdf: https://dl.acm.org/doi/10.1145/3713082.3730393
-    # code: https://github.com/yuhong-zhong/bpf-storage-hotos
+    pdf: "papers/Oasis_SOSP25.pdf"
+    code: https://bitbucket.org/yuhong_zhong/oasis
     # slides: https://sigops.org/s/conferences/hotos/2025/slides/slides321.pdf
     # video: https://www.youtube.com/watch?v=E7K1aRSy7co
 
