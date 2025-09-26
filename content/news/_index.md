@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 7
 
 news_items:
-- text: "Oasis accepted to SOSP '25!"
+- text: "[Oasis](https://sigops.org/s/conferences/sosp/2025/schedule.html) accepted to SOSP '25!"
   extra_text: "2025-07-11"
   icon: "file-text"
   date: 2025-07-11
