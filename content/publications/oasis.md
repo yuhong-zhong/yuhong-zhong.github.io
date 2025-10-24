@@ -12,13 +12,13 @@ authors:
 - "[Asaf Cidon](https://www.asafcidon.com/)"
 date: "2025-10-13"
 
-publication: "SOSP '25 (To Appear)"
+publication: "SOSP '25"
 
 links:
-    pdf: "papers/Oasis_SOSP25.pdf"
+    pdf: https://dl.acm.org/doi/10.1145/3731569.3764812
     code: https://bitbucket.org/yuhong_zhong/oasis
-    # slides: https://sigops.org/s/conferences/hotos/2025/slides/slides321.pdf
-    # video: https://www.youtube.com/watch?v=E7K1aRSy7co
+    slides: "slides/Oasis_SOSP25.pptx"
+    video: https://youtu.be/vki668jxQVg
 
 ---
 
