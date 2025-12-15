@@ -1,5 +1,5 @@
 ---
-title: "Octopus: Scalable Low-Cost CXL Memory Pooling"
+title: "Octopus: Enhancing CXL Memory Pods via Sparse Topology"
 authors:
 - "[Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/)"
 - "**Yuhong Zhong**"
@@ -8,12 +8,12 @@ authors:
 - "[Shuwei Teng](https://www.microsoft.com/en-us/research/people/jacnels/)"
 - "[Mark D. Hill](https://pages.cs.wisc.edu/~markhill/)"
 - "[Rodrigo Fonseca](https://www.microsoft.com/en-us/research/people/rofons/)"
-date: "2025-04-29"
+date: "2025-12-14"
 
-publication: "Arxiv"
+publication: "NSDI '26"
 
 links:
-    pdf: https://arxiv.org/abs/2501.09020
+    # pdf: https://arxiv.org/abs/2501.09020
     # code: https://github.com/yuhong-zhong/bpf-storage-hotos
     # slides: https://sigops.org/s/conferences/hotos/2025/slides/slides321.pdf
     # video: https://www.youtube.com/watch?v=E7K1aRSy7co
