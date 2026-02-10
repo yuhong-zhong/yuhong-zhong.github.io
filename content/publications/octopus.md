@@ -1,13 +1,13 @@
 ---
 title: "Octopus: Enhancing CXL Memory Pods via Sparse Topology"
 authors:
-- "[Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/)"
 - "**Yuhong Zhong**"
 - "[Fiodar Kazhamiaka](https://www.microsoft.com/en-us/research/people/fkazhamiaka/)"
 - "[Pantea Zardoshti](https://www.microsoft.com/en-us/research/people/pzardoshti/)"
 - "[Shuwei Teng](https://www.microsoft.com/en-us/research/people/jacnels/)"
 - "[Mark D. Hill](https://pages.cs.wisc.edu/~markhill/)"
 - "[Rodrigo Fonseca](https://www.microsoft.com/en-us/research/people/rofons/)"
+- "[Daniel S. Berger](https://www.microsoft.com/en-us/research/people/daberg/)"
 date: "2025-12-14"
 
 publication: "NSDI '26"
